@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_BManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin_BManager_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_BManager_Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_BManager_Modify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_BManager_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_SManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin_SManager_Modify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Regist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_SB.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Student_SBM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

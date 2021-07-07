@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据库课设", "数据库课设\数据库课设.csproj", "{E7730F1F-FFF1-4533-A484-28771C9C9D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7730F1F-FFF1-4533-A484-28771C9C9D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7730F1F-FFF1-4533-A484-28771C9C9D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7730F1F-FFF1-4533-A484-28771C9C9D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7730F1F-FFF1-4533-A484-28771C9C9D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08B4FD0-7808-4E6E-A5AC-2475FCA99EEF}
+	EndGlobalSection
+EndGlobal
