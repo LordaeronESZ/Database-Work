@@ -1,2 +1,9 @@
-# Database-Work
-The work of datbase course design
+# 暑期数据库课程设计作业
+## 开发工具
+Visual Studio 2019
+## 开发语言
+C#
+## 开发框架
+Winform
+## 简介
+算是独立开发的第一个小型项目了，实现的是一个图书借阅管理子系统，功能比较简陋，实现操作也仅仅是简单的增删改查，由于只使用了Winform的原生控件，界面也不那么美观。
